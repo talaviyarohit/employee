@@ -1,0 +1,19 @@
+.box{
+    background-color: #64427c;
+    
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+/* .box-2{
+    border: 2px solid black;
+
+} */
+.bor{
+    border-bottom: 10px solid black;
+}
+.blank{
+    background-color: #64427c;
+    height: 15px;
+    
+
+}
